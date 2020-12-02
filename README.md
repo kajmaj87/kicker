@@ -1,2 +1,2 @@
 # kicker
-Kicker Super True Skill League 2020
+Kicker Super True Skill Covid League 2020-2021
