@@ -1,0 +1,12 @@
+# Please enter in following format:
+# Group1, Group2, game result
+# Players in one group must be separated by -
+# p1-p2,p3-p4,result
+# Example 1vs1 row (group 1 wins):
+# BSZ,PKU,win
+# Example 2vs2 row (group 1 loses):
+# PKU-ISW,BSZ-PLA,loss
+# Its possible to define mixed groups like this 1vs2 ("group" 1 wins):
+# PKU,BSZ-PLA,win
+#
+# NEW ENTRIES MUST BE AT THE BOTTOM!
