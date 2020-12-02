@@ -6,5 +6,5 @@
 # 2020.12.01,BSZ,PKU,win,
 # Example 2vs2 row (group 1 loses):
 # 2020.12.02,PKU-ISW,BSZ-PLA,loss
-# Its possible to define mixed groups like this 1vs2 ("group" 1 wins):
+# Its possible to define mixed groups like this 1vs2 (group 1 wins):
 # 2020.12.03,PKU,BSZ-PLA,win
